@@ -9,3 +9,4 @@ C:\Users\Admin\source\repos\P5_2_714240044\P5_2_714240044\obj\Debug\P5_2_7142400
 C:\Users\Admin\source\repos\P5_2_714240044\P5_2_714240044\obj\Debug\P5_2_714240044.csproj.CoreCompileInputs.cache
 C:\Users\Admin\source\repos\P5_2_714240044\P5_2_714240044\obj\Debug\P5_2_714240044.exe
 C:\Users\Admin\source\repos\P5_2_714240044\P5_2_714240044\obj\Debug\P5_2_714240044.pdb
+C:\Users\Admin\source\repos\P5_2_714240044\P5_2_714240044\obj\Debug\P5_2_714240044.exe.config

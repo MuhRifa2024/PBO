@@ -12,7 +12,7 @@ namespace P5_2_714240044
 {
     public partial class ChildForm : Form
     {
-        private string outputText;
+        public string outputText;
         public ChildForm()
         {
             InitializeComponent();
